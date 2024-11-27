@@ -69,14 +69,6 @@ https://xxx.com/api/v1/auth/me
 ```
 
 
-## 参考推荐
-
-* [RESTful API 最佳实践](https://learnku.com/articles/13797/restful-api-best-practice)
-* [RESTful 服务最佳实践](https://www.cnblogs.com/jaxu/p/7908111.html)
-* [Laravel Api Starter](https://github.com/jiannei/laravel-api-starter)
-* [jiannei/laravel-response](https://github.com/jiannei/laravel-response)：规范统一的响应数据格式
-* [jiannei/laravel-enum](https://github.com/jiannei/laravel-enum)：多语言的枚举支持
-
 ## License
 
 The Laravel10 Api Starter is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
