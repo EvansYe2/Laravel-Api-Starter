@@ -63,13 +63,6 @@ https://xxx.com/api/v1/auth/me
 │   │   └── User.php
 │   ├── Providers                     // 各种服务容器
 │   │   └── AppServiceProvider.php
-│   ├── Services                      // Service 层：处理实际业务；调用 Model 取资源数据，分发 Job、Eevent 等
-│   │   └── UserService.php
-│   └── Support                       // 对框架的扩展，或者实际项目中需要封装一些与业务无关的通用功能集
-│       ├── Traits
-│       │   ├── Helpers.php           // Class 中常用的辅助功能集
-│       │   └── SerializeDate.php
-│       └── helpers.php               // 全局会用到的辅助函数
 ├── rseources
 │   └── lang  多语言的api返回都在这个下面
 ```
