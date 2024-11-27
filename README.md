@@ -24,7 +24,8 @@ https://xxx.com/api/v1/auth/login
 
 拿到access token后
 在头部Header里面增加：
-Authorization: bearer (这里填写上面获取到的access_token)
+Accept:application/json
+Authorization: Bearer (这里填写上面获取到的access_token)
 
 https://xxx.com/api/v1/auth/me
 
