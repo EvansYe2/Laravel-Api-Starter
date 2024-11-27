@@ -13,7 +13,7 @@
 
 项目就平时自己使用的，分享出来，不一定很好，勿喷，预装了dcatadmin，不需要的可以卸载。
 会laravel基本都会使用，好记性不如烂笔头，比较习惯记录下来：
-修改.env数据库连接信息
+- 修改.env数据库连接信息
 - composer install
 - php artisan migrate
 - 创建测试的用户：php artisan db:seed --class=UsersTableSeeder
